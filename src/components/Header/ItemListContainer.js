@@ -4,7 +4,7 @@ import Card from 'react-bootstrap/Card';
 
 const ItemListContainer = ({ greeting, caption }) => {
   return (
-    <div className='greeting' style={{ textAlign: 'center', fontSize: '18.5px', color: "black", width: '75%', margin: '0 auto'}}>
+    <div style={{ textAlign: 'center', fontSize: '18.5px', color: "black", width: '75%', margin: '0 auto'}}>
         <br></br>
         <Alert variant="dark">
             <Alert.Heading>{ greeting } </Alert.Heading>
