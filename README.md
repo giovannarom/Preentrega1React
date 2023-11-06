@@ -20,3 +20,10 @@ This eCommerce website promotes sustainable living by offering eco-friendly gadg
 - **User-Friendly Interface:** Enjoy a responsive and intuitive user interface designed for easy navigation.
 - **Firebase Integration:** Utilize Firebase for real-time product updates and a secure authentication system.
 
+## Technologies Used
+
+- [React](https://reactjs.org/): A JavaScript library for building user interfaces.
+- [Bootstrap](https://getbootstrap.com/): A popular front-end framework for designing responsive and visually appealing web pages.
+- [React Router DOM](https://reactrouter.com/): A library for adding navigation and routing to React applications.
+- [Firebase](https://firebase.google.com/): A platform developed by Google for creating mobile and web applications.
+
