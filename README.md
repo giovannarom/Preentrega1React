@@ -1,4 +1,4 @@
-# Sustainable eCommerce Project
+# Sustainable eCommerce Project- ClimateWorks
 
 This sustainable eCommerce project is built with React, Bootstrap, React Router DOM, and Firebase. It offers a wide range of sustainable products, including gadgets, bikes, clothing, and books.
 
