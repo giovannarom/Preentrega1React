@@ -28,4 +28,6 @@ This eCommerce website promotes sustainable living by offering eco-friendly gadg
 - [Bootstrap](https://getbootstrap.com/): A popular front-end framework for designing responsive and visually appealing web pages.
 - [React Router DOM](https://reactrouter.com/): A library for adding navigation and routing to React applications.
 - [Firebase](https://firebase.google.com/): A platform developed by Google for creating mobile and web applications.
+- [Material-UI](https://material-ui.com/): A popular React UI framework for building modern and responsive web applications.
+- [Material-UI Icons](https://material.io/resources/icons/): A collection of free, high-quality icons developed by Google and the Material Design team.
 
