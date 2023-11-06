@@ -31,5 +31,7 @@ This eCommerce website promotes sustainable living by offering eco-friendly gadg
 - [Material-UI](https://material-ui.com/): A popular React UI framework for building modern and responsive web applications.
 - [Material-UI Icons](https://material.io/resources/icons/): A collection of free, high-quality icons developed by Google and the Material Design team.
 
+## GIF
+[https://www.canva.com/design/DAFzXuqYXWY/Qk5iqtUoziNxNXWRaAxUgA/view?utm_content=DAFzXuqYXWY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel]
 
 
