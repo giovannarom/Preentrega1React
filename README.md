@@ -19,6 +19,8 @@ This eCommerce website promotes sustainable living by offering eco-friendly gadg
 - **Product Details:** View detailed information about each product, including images, descriptions, and prices.
 - **User-Friendly Interface:** Enjoy a responsive and intuitive user interface designed for easy navigation.
 - **Firebase Integration:** Utilize Firebase for real-time product updates and a secure authentication system.
+- **Material-UI Icons:** Enhance the user experience with a wide range of icons provided by Material-UI.
+- **Material-UI:** Utilize Material-UI components for a consistent and modern design.
 
 ## Technologies Used
 
