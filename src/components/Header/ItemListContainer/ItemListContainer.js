@@ -35,7 +35,7 @@ const ItemListContainer = ({ greeting, caption }) => {
     }, [categoryId]);
 
     return (
-        <div style={{ textAlign: 'center', fontSize: '18.5px', color: "black", width: '75%', margin: '0 auto'}}>
+        <div className="welcomediv">
             <br></br>
             <Alert variant="dark">
                 <Alert.Heading>{greeting}</Alert.Heading>

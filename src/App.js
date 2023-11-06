@@ -7,6 +7,7 @@ import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import NotFound from './components/Header/NotFound/NotFound';
 import { CartProvider } from './context/CartContext';
 import Cart from './components/Header/Cart/Cart.js';
+import Checkout from './components/Header/Checkout/Checkout';
 
 const App= () => {
   return (
@@ -19,6 +20,7 @@ const App= () => {
             <Route path="/category/:categoryId"  element={<ItemListContainer greeting="Shop at Climate Works!" caption="You're contribuiting to climate action with every purchase."/>}/>
             <Route path="/item/:itemId"  element={<ItemDetailContainer/>}/>
             <Route  path="/cart"  element={<Cart/>} />
+            <Route  path="/checkout"  element={<Checkout/>} />
             <Route  path="*"  element={<NotFound/>} />
           </Routes>
         </CartProvider>

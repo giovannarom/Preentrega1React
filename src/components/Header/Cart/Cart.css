@@ -1,3 +1,11 @@
 .inline-btn{
     margin-right: 15px;
 }
+
+.container-holder{
+    text-align:center;
+    font-size: 18.5px;
+    color: black;
+    margin: 0 auto;
+    width: 70%
+}

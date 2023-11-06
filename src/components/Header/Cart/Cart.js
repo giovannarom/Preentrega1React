@@ -10,7 +10,7 @@ const Cart = () => {
 
     if (totalQuantity === 0) {
         return (
-            <div style={{ textAlign: 'center', fontSize: '18.5px', color: "black", width: '70%', margin: '0 auto' }}>
+            <div className="container-holder">
                 <h2> No items in cart</h2>
                 <Link to="/"><Button variant="secondary" size="lg">Search products</Button></Link>
             </div>

@@ -29,7 +29,7 @@ const ItemDetail = ({id, name, image, category, description, price, stock}) => {
   return (
     <div style={{ textAlign: 'center', fontSize: '18.5px', color: "black", width: '75%', margin: '0 auto'}}>
       <br />
-      <Card style={{ display: "flex", justifyContent: 'center', fontSize: '12pt', color: "black", width: '75%', margin: '0 auto', paddingTop:"10px"}} border='Primary'>
+      <Card className='custom-detailcard' border='Primary'>
         <Card.Body>
             <Card.Text>
                 <h3>{name}</h3>
